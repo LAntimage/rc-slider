@@ -1,6 +1,6 @@
 {
   "name": "@lantimage/rc-slider",
-  "version": "10.0.5",
+  "version": "10.0.6",
   "description": "Slider UI component for React",
   "engines": {
     "node": ">=8.x"
