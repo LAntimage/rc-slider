@@ -13,13 +13,13 @@
     "input",
     "range"
   ],
-  "homepage": "http://github.com/react-component/slider/",
+  "homepage": "https://github.com/LAntimage/rc-slider/",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/slider.git"
+    "url": "git@github.com:LAntimage/rc-slider.git"
   },
   "bugs": {
-    "url": "http://github.com/react-component/slider/issues"
+    "url": "https://github.com/LAntimage/rc-slider/issues"
   },
   "files": [
     "assets/*.css",
